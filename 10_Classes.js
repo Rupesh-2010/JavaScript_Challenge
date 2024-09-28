@@ -59,14 +59,14 @@
 
 // ##########################33
 
-class Parents {
-    hello() {
-        console.log("hello");
-    }
-}
-class Child extends Parents{
+// class Parents {
+//     hello() {
+//         console.log("hello");
+//     }
+// }
+// class Child extends Parents{
 
-}
-const R = new Child();
+// }
+// const R = new Child();
 
-R.hello();
+// R.hello();
