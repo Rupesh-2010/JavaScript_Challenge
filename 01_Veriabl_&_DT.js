@@ -9,10 +9,10 @@
 // console.log(Name);
 
 
-// Name = 44; 
-// console.log(Name);
-// age = "Rupesh";
-// console.log(age);
+Name = 44; 
+console.log(Name);
+age = "Rupesh";
+console.log(age);
 
 // let name = "Rupesh";
 // name = "Sonya";
